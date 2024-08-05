@@ -7,5 +7,6 @@ import lombok.Setter;
 @Setter
 public class MailModel {
     private String subject;
-    private String massage;
+    private String message;
+
 }
